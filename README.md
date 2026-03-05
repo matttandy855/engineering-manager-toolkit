@@ -302,3 +302,7 @@ MIT License - Use freely in your organization
 **Built by engineering managers, for engineering managers** 🌱
 
 *Transform your team leadership through intelligent automation*
+
+## Git Configuration Updated
+- All future commits will show as Matt Tandy instead of 'home'
+- Proper author attribution for professional repository history
